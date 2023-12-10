@@ -13,7 +13,8 @@
 <a href="https://t.me/go_sonic">Telegram Channel</a>
 </p>
 
-
+## [源项目地址](https://github.com/go-sonic/sonic)
+### 个人备份方便访问
 English | [中文](doc/README_ZH.md)
 
 ## 📖 Introduction
