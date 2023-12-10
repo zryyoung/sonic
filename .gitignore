@@ -1,0 +1,10 @@
+/.idea
+/logs
+.DS_Store
+/upload
+/.vscode
+sonic.db
+sonic
+__debug_bin
+/resources/template/theme/
+!/resources/template/theme/default-theme-anatole
